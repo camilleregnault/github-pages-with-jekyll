@@ -1,7 +1,4 @@
-
 ---
 title: "This is my first article"
-date: 2019-11-6
+date: 2019-11-06
 ---
-
-# This is my first article
